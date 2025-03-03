@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrifEY85aYM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\ReyRemerasApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
