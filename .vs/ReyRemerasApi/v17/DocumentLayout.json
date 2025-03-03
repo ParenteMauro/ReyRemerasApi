@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\models\\stockproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\models\\stockproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\models\\pricesizecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\models\\pricesizecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\models\\fabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\models\\fabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\data\\reyremerasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\data\\reyremerasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|c:\\users\\mauro\\desktop\\reyremerasapi\\reyremerasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A714324-8ABD-4A6E-A7A6-8F02A695C9E8}|ReyRemerasApi\\ReyRemerasApi.csproj|solutionrelative:reyremerasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Program.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Program.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:11:26.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReyRemerasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Data\\ReyRemerasDbContext.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Data\\ReyRemerasDbContext.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Data\\ReyRemerasDbContext.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Data\\ReyRemerasDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:01:18.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Size.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Models\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:25:29.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockProduct.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\StockProduct.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Models\\StockProduct.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\StockProduct.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Models\\StockProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:24:17.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Product.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:23:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceSizeCategory.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\PriceSizeCategory.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Models\\PriceSizeCategory.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\PriceSizeCategory.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Models\\PriceSizeCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:22:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Category.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:21:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Color.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Models\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:17:11.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fabric.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Fabric.cs",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\Models\\Fabric.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\Models\\Fabric.cs",
+              "RelativeToolTip": "ReyRemerasApi\\Models\\Fabric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:16:27.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ReyRemerasApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\ReyRemerasApi\\ReyRemerasApi\\appsettings.json",
+              "RelativeToolTip": "ReyRemerasApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T22:02:25.72Z"
             }
           ]
         }
